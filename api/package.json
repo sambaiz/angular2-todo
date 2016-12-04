@@ -1,0 +1,11 @@
+{
+  "name": "rest-api-for-test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "sambaiz",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}

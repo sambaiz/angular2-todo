@@ -1,0 +1,14 @@
+<div>
+  <form (ngSubmit)="onCreateTodo()">
+    <input
+      type="text"
+      name="todo"
+      [(ngModel)]="newTodo"
+    >
+    <button
+      type="submit"
+    >
+    登録
+    </button>
+  </form>
+</div>
